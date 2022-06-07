@@ -9,8 +9,19 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: NCU
+    url: https://www.ncu.edu.tw/tw/
+  - name: FB
+    url: https://www.facebook.com/
+  - name: IG
+    url: https://www.instagram.com/
+  - name: youtube
+    url: https://www.youtube.com/
+  - name: IKEA
+    url: https://www.ikea.com.tw/zh
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: http://idkidkidkidk.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
